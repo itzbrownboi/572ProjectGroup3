@@ -22,3 +22,6 @@ Justin Yu 30093886 (CPSC 572)
 
 **actornetwork labeled.pdf, actornetwork.gephi, actornetwork.pdf**
 - The resulting netowrk visualization in Gephi readable format, as well as PDF (with nodes labelled and unlabelled)
+
+**degreedistribution.ipynb**
+- File for degree distribution in log scale and linear scale
